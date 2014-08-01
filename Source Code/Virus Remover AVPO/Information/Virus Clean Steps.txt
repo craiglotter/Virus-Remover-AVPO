@@ -1,0 +1,21 @@
+Virus Clean Up Steps:
+-----------------------
+
+01. Stop System Restore
+02. Remove System Restore Points
+03. Stop wscript Process
+04. Registry Update: HKEY_CURRENT_USER\...Hidden=1
+05. File Delete: autorun.inf
+06. File Delete: \System32\avp*
+   -- avp*.dll (Deregister first)
+07. File Delete: ntde1ect*
+   -- ntde1ect*.dll (Deregister first)
+08. File Delete: %Temp%\efgi2ty.dll (Deregister first)
+09. File Delete %CACHE%\...HELP[* 
+10. Registry Removal: avp
+11. Registry Removal: ntde1ect
+12. Registry Update: HKEY_CURRENT_USER\...Hidden=0
+13. Restart System Restore
+
+
+

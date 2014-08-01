@@ -1,0 +1,10 @@
+application_name = Virus Remover AVPO
+application_excutable = AutoUpdate.exe
+application_icon = Application_Icon.ico
+application_splashimage = splash_image.jpg
+application_netmajorversion = 3
+application_netminorversion = 0
+application_buildnumber = 4323
+application_colour = FFFFFF
+application_forecolour = 000000
+application_download = http://www.commerce.uct.ac.za/Commerce_IT/Support/Utilities/Files/DotNetFramework/dotnetfx.exe

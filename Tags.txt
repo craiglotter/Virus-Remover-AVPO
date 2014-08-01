@@ -1,0 +1,4 @@
+File Manipulation
+Registry Manipulation
+Process Manipulation
+Script Execution
